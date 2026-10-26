@@ -70,7 +70,7 @@ Magisk-GifBoot/
 
 👨‍💻 Author
 
-you
+Clenix/Kahraman
 
 · Feel free to open an issue if you encounter any bugs!
 
